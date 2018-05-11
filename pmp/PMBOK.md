@@ -927,4 +927,3 @@
     * 3 项目管理计划更新
     * 4 项目文件更新
 
-*XMind: ZEN - Trial Version*
